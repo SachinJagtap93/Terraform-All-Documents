@@ -3,7 +3,7 @@ layout: "opentelekomcloud"
 page_title: "OpenTelekomCloud: opentelekomcloud_cce_cluster_v1  "
 sidebar_current: "docs-opentelekomcloud-datasource-cce-cluster-v1"
 description: |-
-  Get information on CCE Cloud Container Engine.
+  Get information on Cloud Container Engine(CCE).
 ---
 
 # opentelekomcloud_cce_cluster_v1
