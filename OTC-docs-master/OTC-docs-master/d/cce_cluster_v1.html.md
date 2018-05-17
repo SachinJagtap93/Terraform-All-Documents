@@ -6,7 +6,7 @@ description: |-
   Get information on CCE Cloud Container Engine.
 ---
 
-# opentelekomcloud_vpc_peering_connection_accepter_v2
+# opentelekomcloud_cce_cluster_v1
 
 `opentelekomcloud_cce_cluster_v1` provides details about all clusters and obtains certificate for accessing cluster information.
 
